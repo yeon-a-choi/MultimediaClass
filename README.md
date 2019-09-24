@@ -12,3 +12,6 @@
 + Github 파일 add
 * Github 파일 commit
 * Github 파일 push
+
+*_기울기_*
+**_기울기_**
